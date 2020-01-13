@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+TODOS
+add color legend?
+add export pattern ability
+add import pattern ability
+add example patterns

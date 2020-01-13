@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  font-size: inherit;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: #232328;
+}
+
+h1 {
+  display: inline;
+}
